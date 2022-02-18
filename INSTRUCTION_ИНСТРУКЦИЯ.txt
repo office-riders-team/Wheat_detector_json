@@ -1,0 +1,44 @@
+Wheat Detector - is a program for determining the amount of wheat in the field, the density of wheat and the area of ​​the field.
+
+For correct work you need:
+	JSON file with all data (example in data_example folder)
+	Photos of wheat from a quadrocopter. (size 1024 by 1024 pixels)
+	Camera viewing angles should be 70 and 120 degrees
+
+In order to make calculations, in the program interface you need to specify:
+	Folder with photos and JSON file.
+	Folder for detected images.
+	The format of the original images. (png or jpg)
+	Click 'START' button
+
+	After a while, all the calculated data will appear in the 'RESULTS' window
+	A window for visualizing the field and images will open. (the larger the point of the picture, the more spikelets in it)
+	For the spikelet detection test, you can view the processed images in the folder specified earlier
+
+Thank you for using this program!
+
+
+
+RUSSIAN INSTRUCTION:
+
+Wheat Detector - программа для определения количества пшеницы на поле, плотности пшеницы в шт/метр, площади поля.
+
+Для корректной работы необходимо:
+	JSON файл с требуемыми данными. (пример в папке data_example)
+	Фотографии пшеницы с квадрокоптера. (размер 1024 на 1024 пикселя)
+	Углы обзора камеры должны составлять 70 и 120 градусов
+
+Для того что бы произвести расчеты, в интерфейсе программы нужно указать:
+	Папку с фотографиями и JSON файлом
+	Папку для обработанных изображений
+	Формат исходных изображений. (png или jpg)
+	Нажать на кнопку 'START'
+
+	Через некоторое время в окне 'RESULTS' появятся все рассчитанные данные
+	Откроется окно визуализации поля и снимков. (чем больше точка снимка, тем больше на нем колосков)
+	Для теста обнаружения колосков можно посмотреть обработанные снимки в папке, указанной ранее
+
+Приятного использования !
+
+
+
